@@ -51,6 +51,7 @@ a. Is there any relationship between an employee’s manager and their performan
 b. What are the best recruiting sources to ensure a low employee termination ratio?
 
 Goals:
+
 To provide insights on employee retention and performance.
 
 To assist HR professionals in making data-driven decisions regarding employee management, performance evaluations, and recruitment strategies.
