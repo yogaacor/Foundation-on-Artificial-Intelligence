@@ -27,3 +27,28 @@ The program will display:
 How many of each denomination are needed (from largest to smallest).
 The total count of paper money and coins.
 Any remaining amount that cannot be cashed out.
+
+# 01_Kelompok_J_3 - HR Metrics and Analytics
+
+This project involves analyzing an HR-related dataset created for a graduate MSHRM course at New England College of Business. The dataset contains various employee-related metrics, such as performance scores, reasons for termination, and employee demographics. This analysis aims to uncover patterns related to employee termination, performance evaluation, and recruitment sources. The goal is to provide actionable insights for HR professionals to optimize decision-making in employee management.
+
+Tasks:
+
+Data Aggregation:
+Answer multiple aggregation questions using Pandas. The detailed questions are available in the provided .ipynb file. These questions help uncover key insights from the dataset.
+Exploratory Data Analysis (EDA):
+
+Perform EDA on the target variable (employee termination) to analyze which feature variables are related to employee termination, such as:
+- Most common reasons for termination
+- Termination by department
+- Termination by gender
+Create a minimum of five visualizations to illustrate the insights discovered during the EDA process.
+
+Key Analysis Questions:
+
+a. Is there any relationship between an employee’s manager and their performance score?
+b. What are the best recruiting sources to ensure a low employee termination ratio?
+
+Goals:
+To provide insights on employee retention and performance.
+To assist HR professionals in making data-driven decisions regarding employee management, performance evaluations, and recruitment strategies.
