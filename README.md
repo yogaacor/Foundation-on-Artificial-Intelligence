@@ -52,6 +52,6 @@ b. What are the best recruiting sources to ensure a low employee termination rat
 
 Goals:
 
-To provide insights on employee retention and performance.
+- To provide insights on employee retention and performance.
 
-To assist HR professionals in making data-driven decisions regarding employee management, performance evaluations, and recruitment strategies.
+- To assist HR professionals in making data-driven decisions regarding employee management, performance evaluations, and recruitment strategies.
