@@ -47,8 +47,10 @@ Create a minimum of five visualizations to illustrate the insights discovered du
 Key Analysis Questions:
 
 a. Is there any relationship between an employee’s manager and their performance score?
+
 b. What are the best recruiting sources to ensure a low employee termination ratio?
 
 Goals:
 To provide insights on employee retention and performance.
+
 To assist HR professionals in making data-driven decisions regarding employee management, performance evaluations, and recruitment strategies.
